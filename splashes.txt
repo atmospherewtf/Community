@@ -113,3 +113,4 @@ Locking on to dead bodies
 VLOR5k
 splash potion of netanyahu
 splash potion of palantir
+A red banner that places a black one (technology)
