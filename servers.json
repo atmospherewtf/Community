@@ -55,7 +55,7 @@
         "antiVpn": true
     },
     {
-        "name": "Arch MC",
+        "name": "ArchMC",
         "ips": ["arch.mc"],
         "anticheat": "Polar",
         "ipBans": false,
@@ -82,10 +82,11 @@
         "anticheat": "Matrix"
     },
     {
-        "name": "Blocks MC",
+        "name": "BlocksMC",
         "ips": ["blocksmc.com"],
         "anticheat": "Grim + Verus + NCP + Custom", 
         "ipBans": true,
+        "gridBan": false,
         "antiVpn": true
     },
     {
@@ -137,7 +138,7 @@
     },
     {
         "name": "Mospixel",
-        "ips": ["funniesthvh.uk", "mc.themoskau.xyz"],
+        "ips": ["funniesthvh.uk", "mc.themoskau.xyz, hvh.cherry.cat"],
         "anticheat": "Old NoCheatPlus",
         "ipBans": false,
         "gridBan": false,
@@ -145,11 +146,17 @@
         
     },
     {
-        "name": "Universo Craft",
+        "name": "UniversoCraft",
         "ips": ["mc.universocraft.com"],
         "anticheat": "Polar",
         "ipBans": true,
         "gridBan": false,
+        "antiVpn": true
+    },
+    {
+        "name": "Fakepixel",
+        "ips": ["mc.fakepixel.me"],
+        "anticheat": "Grim",
         "antiVpn": true
     },
     {
@@ -159,6 +166,20 @@
         "ipBans": true,
         "gridBan": false,
         "antiVpn": true
+    },
+    {
+        "name": "Ticocraft",
+        "ips": ["mc.ticocraft.com"],
+        "anticheat": "TicoGuard",
+        "antiVpn": false
+    },
+    {
+        "name": "Mineberry",
+        "ips": ["mc.mineberry.org"],
+        "anticheat": "Polar",
+        "ipBans": true,
+        "gridBan": false,
+        "antiVpn": false
     },
     {
         "name": "2B2T",
