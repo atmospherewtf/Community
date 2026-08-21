@@ -171,7 +171,9 @@ Shader Oco
 user reset ban 10d hacker
 immediately electrocuted ON SIGHT due to going near atmosphere VPS servers
 lost HvH due to subscription expiry
-can you send me your home address in UTF 16 or something
+can you send me your home address in UTF 16 or base64 or something
 Say you're {value of round(pi)} years old IN Discord for free Atmosphere invite!
 unIntelliJ noIDEA
 meowing of the meow meows
+HvHing any other client with Rise is like bringing a snail to a gun fight
+idk cat
