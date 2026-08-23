@@ -131,7 +131,7 @@
         "name": "Zentic",
         "ips": ["mc.zentic.cc", "zentic.cc"],
         "anticheat": "Grim",
-        "ipBans": false,
+        "ipBans": true,
         "gridBan": false,
         "antiVpn": false
         
