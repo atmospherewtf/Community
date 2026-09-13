@@ -10,7 +10,7 @@
     },
     {
         "name": "CCBlueX's Testserver",
-        "ips": ["ccbluex.net", "loyisa.cn"],
+        "ips": ["test.ccbluex.net", "loyisa.cn"],
         "anticheat": "Test Server (Multiple)"
     },
     {
