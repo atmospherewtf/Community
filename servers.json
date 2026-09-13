@@ -4,13 +4,21 @@
         "ips": ["localhost", "127.0.0.1"]
     },
     {
-        "name": "Anticheat-Test",
-        "ips": ["anticheat-test.com", "mc.stitch.best"],
-        "anticheat": "Test Server (Multiple)"
+        "name": "Hypixel Network",
+        "ips": ["hypixel.net", "ilovecatgirls.xyz", "transrights.mtf.dev"],
+        "anticheat": "Watchdog",
+        "ipBans": true,
+        "gridBan": true,
+        "antiVpn": false
     },
     {
         "name": "CCBlueX's Testserver",
         "ips": ["test.ccbluex.net", "loyisa.cn"],
+        "anticheat": "Test Server (Multiple)"
+    },
+    {
+        "name": "Anticheat-Test",
+        "ips": ["anticheat-test.com", "mc.stitch.best"],
         "anticheat": "Test Server (Multiple)"
     },
     {
@@ -19,25 +27,55 @@
         "anticheat": "Test Server (Multiple)"
     },
     {
+        "name": "Hylex",
+        "ips": ["hylex.gg"],
+        "anticheat": "Grim",
+        "ipBans": false,
+        "antiVpn": false
+    },
+    {
+        "name": "BlocksMC",
+        "ips": ["blocksmc.com"],
+        "anticheat": "Grim + Verus + NCP + Custom", 
+        "ipBans": true,
+        "gridBan": false,
+        "antiVpn": true
+    },
+    {
         "name": "LibreCraft",
         "ips": ["librecraft.com"],
-        "anticheat": "Verus + NCP",
+        "anticheat": "Grim",
         "ipBans": false,
         "antiVpn": false 
     },
     {
-        "name": "Hypixel Network",
-        "ips": ["hypixel.net", "ilovecatgirls.xyz"],
-        "anticheat": "Watchdog",
+        "name": "Fakepixel",
+        "ips": ["mc.fakepixel.me"],
+        "anticheat": "Grim",
+        "antiVpn": true
+    },
+    {
+        "name": "Zentic",
+        "ips": ["mc.zentic.cc", "zentic.cc"],
+        "anticheat": "Grim",
         "ipBans": true,
-        "gridBan": true,
+        "gridBan": false,
         "antiVpn": false
+        
     },
     {
         "name": "Minemen Club",
         "ips": ["minemen.club"],
         "anticheat": "AntiGamingChair",
         "ipBans": false,
+        "antiVpn": false
+    },
+    {
+        "name": "MCGamer",
+        "ips": ["mcgamer.rip"],
+        "anticheat": "XAC (Modified)",
+        "ipBans": false,
+        "gridBan": false,
         "antiVpn": false
     },
     {
@@ -48,11 +86,57 @@
         "antiVpn": false
     },
     {
+        "name": "PvPGym",
+        "ips": ["pvpgym.net"],
+        "anticheat": "None",
+        "ipBans": true,
+        "gridBan": true,
+        "antiVpn": true
+    },
+    {
         "name": "Mineland Network",
         "ips": ["mineland.net"],
         "anticheat": "Intave",
         "ipBans": false,
         "antiVpn": true
+    },
+    {
+        "name": "Bedwars Practice",
+        "ips": ["bedwarspractice.club"],
+        "anticheat": "Intave",
+        "ipBans": false,
+        "gridBan": false,
+        "antiVpn": false
+        
+    },
+    {
+        "name": "FunnyMC",
+        "ips": ["funnymc.ru"],
+        "anticheat": "Matrix"
+    },
+    {
+        "name": "Vortex HvH",
+        "ips": ["play.vortexhvh.com", "testncp.serv.nu", "codedby.ofacy.com", "b0at.xyz", "hvh.atlasclarinet.xyz"],
+        "anticheat": "Old NoCheatPlus",
+        "ipBans": false,
+        "gridBan": false,
+        "antiVpn": false,
+    },
+    {
+        "name": "Mospixel",
+        "ips": ["funniesthvh.uk", "mc.themoskau.xyz, hvh.cherry.cat"],
+        "anticheat": "Old NoCheatPlus",
+        "ipBans": false,
+        "gridBan": false,
+        "antiVpn": false
+    },
+    {
+        "name": "NoRules",
+        "ips": ["noruleshvh.net"],
+        "anticheat": "Old NoCheatPlus",
+        "ipBans": false,
+        "gridBan": false,
+        "antiVpn": false
     },
     {
         "name": "ArchMC",
@@ -77,24 +161,28 @@
         "anticheat": "Polar"
     },
     {
-        "name": "FunnyMC",
-        "ips": ["funnymc.ru"],
-        "anticheat": "Matrix"
+        "name": "Mineberry",
+        "ips": ["mc.mineberry.org"],
+        "anticheat": "Polar",
+        "ipBans": true,
+        "gridBan": false,
+        "antiVpn": false
     },
     {
-        "name": "BlocksMC",
-        "ips": ["blocksmc.com"],
-        "anticheat": "Grim + Verus + NCP + Custom", 
+        "name": "MineMalia",
+        "ips": ["play.minemalia.com"],
+        "anticheat": "Polar",
         "ipBans": true,
         "gridBan": false,
         "antiVpn": true
     },
     {
-        "name": "Hylex",
-        "ips": ["hylex.gg"],
-        "anticheat": "Grim",
-        "ipBans": false,
-        "antiVpn": false
+        "name": "UniversoCraft",
+        "ips": ["mc.universocraft.com"],
+        "anticheat": "Polar",
+        "ipBans": true,
+        "gridBan": false,
+        "antiVpn": true
     },
     {
         "name": "ElevateMC",
@@ -112,87 +200,9 @@
         "antiVpn": true
     },
     {
-        "name": "PvPGym",
-        "ips": ["pvpgym.net"],
-        "ipBans": true,
-        "gridBan": true,
-        "antiVpn": true
-    },
-    {
-        "name": "Bedwars Practice",
-        "ips": ["bedwarspractice.club"],
-        "anticheat": "Intave",
-        "ipBans": false,
-        "gridBan": false,
-        "antiVpn": false
-        
-    },
-    {
-        "name": "Zentic",
-        "ips": ["mc.zentic.cc", "zentic.cc"],
-        "anticheat": "Grim",
-        "ipBans": true,
-        "gridBan": false,
-        "antiVpn": false
-        
-    },
-    {
-        "name": "Vortex HvH",
-        "ips": ["play.vortexhvh.com", "testncp.serv.nu", "codedby.ofacy.com", "b0at.xyz", "hvh.atlasclarinet.xyz"],
-        "anticheat": "Old NoCheatPlus"
-    },
-    {
-        "name": "Mospixel",
-        "ips": ["funniesthvh.uk", "mc.themoskau.xyz, hvh.cherry.cat"],
-        "anticheat": "Old NoCheatPlus",
-        "ipBans": false,
-        "gridBan": false,
-        "antiVpn": false
-        
-    },
-    {
-        "name": "UniversoCraft",
-        "ips": ["mc.universocraft.com"],
-        "anticheat": "Polar",
-        "ipBans": true,
-        "gridBan": false,
-        "antiVpn": true
-    },
-    {
-        "name": "Fakepixel",
-        "ips": ["mc.fakepixel.me"],
-        "anticheat": "Grim",
-        "antiVpn": true
-    },
-    {
-        "name": "MineMalia",
-        "ips": ["play.minemalia.com"],
-        "anticheat": "Polar",
-        "ipBans": true,
-        "gridBan": false,
-        "antiVpn": true
-    },
-    {
         "name": "Ticocraft",
         "ips": ["mc.ticocraft.com"],
         "anticheat": "TicoGuard",
         "antiVpn": false
-    },
-    {
-        "name": "Mineberry",
-        "ips": ["mc.mineberry.org"],
-        "anticheat": "Polar",
-        "ipBans": true,
-        "gridBan": false,
-        "antiVpn": false
-    },
-    {
-        "name": "2B2T",
-        "ips": ["2b2t.org"],
-        "anticheat": "Grim",
-        "ipBans": false,
-        "gridBan": false,
-        "antiVpn": false
-        
     }
 ]
