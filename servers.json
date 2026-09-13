@@ -42,6 +42,15 @@
         "antiVpn": true
     },
     {
+        "name": "Bedwars Practice",
+        "ips": ["bedwarspractice.club"],
+        "anticheat": "Grim",
+        "ipBans": false,
+        "gridBan": false,
+        "antiVpn": false
+        
+    },
+    {
         "name": "LibreCraft",
         "ips": ["librecraft.com"],
         "anticheat": "Grim",
@@ -99,15 +108,6 @@
         "anticheat": "Intave",
         "ipBans": false,
         "antiVpn": true
-    },
-    {
-        "name": "Bedwars Practice",
-        "ips": ["bedwarspractice.club"],
-        "anticheat": "Intave",
-        "ipBans": false,
-        "gridBan": false,
-        "antiVpn": false
-        
     },
     {
         "name": "FunnyMC",
