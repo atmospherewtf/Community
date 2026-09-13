@@ -137,6 +137,11 @@
         
     },
     {
+        "name": "Vortex HvH",
+        "ips": ["play.vortexhvh.com", "testncp.serv.nu", "codedby.ofacy.com", "b0at.xyz", "hvh.atlasclarinet.xyz"],
+        "anticheat": "Old NoCheatPlus"
+    },
+    {
         "name": "Mospixel",
         "ips": ["funniesthvh.uk", "mc.themoskau.xyz, hvh.cherry.cat"],
         "anticheat": "Old NoCheatPlus",
