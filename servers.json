@@ -120,7 +120,7 @@
         "anticheat": "Old NoCheatPlus",
         "ipBans": false,
         "gridBan": false,
-        "antiVpn": false,
+        "antiVpn": false
     },
     {
         "name": "Mospixel",
