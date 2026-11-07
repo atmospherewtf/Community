@@ -1,7 +1,8 @@
 [
     {
-        "name": "Local Server",
-        "ips": ["localhost", "127.0.0.1"]
+        "name": "Rewound Network",
+        "ips": ["rewound.cc"],
+        "anticheat": "Old Watchdog"
     },
     {
         "name": "Hypixel Network",
