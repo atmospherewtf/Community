@@ -144,7 +144,7 @@
         "ips": ["arch.mc"],
         "anticheat": "Polar",
         "ipBans": false,
-        "antiVpn": false
+        "antiVpn": true
     },
     {
         "name": "Gamster",
